@@ -1,0 +1,36 @@
+.main{
+	width: 80%;
+	margin-left:10%;
+	height: 100%;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.knob{
+	width:600px;
+	margin-left: calc(50% - 300px);
+}
+.row{
+	width: 60%;
+	margin-left: 20%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.row h4{
+	margin-top:0;
+	float:left;
+}
+.row > div{
+	float: right;
+}
+img{
+	margin: 20px;
+}
+.header{
+	padding: 30px;
+	text-align: center;
+	background-color: #34495E;
+}
+.header > *{
+	color: white;
+}
