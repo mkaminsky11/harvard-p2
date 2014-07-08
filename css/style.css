@@ -30,6 +30,7 @@ img{
 	padding: 30px;
 	text-align: center;
 	background-color: #34495E;
+	background-image: url('http://mkaminsky11.github.io/images/star.png');
 }
 .header > *{
 	color: white;

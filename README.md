@@ -12,5 +12,20 @@
 	<li>Whether to upper case the first letter of the password.</li>
 </ol>
 
+###Resources###
+<ul>
+	<li>Boostrap</li>
+	<li>Flat UI, Bootstrap theme</li>
+	<li><a href="http://randomword.setgetgo.com/">Random Word Generator</a></li>
+</ul>
+
+###Files###
+<ul>
+	<li><code>index.php</code>: visuals</li>
+	<li><code>init.php</code>: handles POST requests</li>
+	<li><code>logic.php</code>: turns number of words, puncuation, etc. into random string</li>
+	<li><code>random.php</code>: generates random words</li>
+</ul>
+
 <img src="http://imgs.xkcd.com/comics/password_strength.png">
 
