@@ -18,7 +18,7 @@
 		<![endif]-->
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="css/style.css">
 		<?php
 		require('init.php');
 		?>
@@ -97,7 +97,7 @@
 		</form>
 		</div>
 
-		<script src="main.js"></script>
+		<script src="js/main.js"></script>
 		
 		<script src="flat/js/jquery-ui-1.10.3.custom.min.js"></script>
 		<script src="flat/js/jquery.ui.touch-punch.min.js"></script>
