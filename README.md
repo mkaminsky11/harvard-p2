@@ -1,6 +1,6 @@
 #P2 for Dynamic Web Applications#
 
- This is the P2 assignment, which is an XKCD password generator. That's about it. The live website is <a href="https://codeyourcloud.com/harvard/harvard-p2/">here</a>.
+ This is the P2 assignment, which is an XKCD password generator. That's about it.
 
 ####Goals####
 
